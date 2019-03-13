@@ -1,0 +1,17 @@
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+lib/readme.txt
+cnc_ctrl_v1/.DS_Store
+cnc_ctrl_v1/.DS_Store
+cnc_ctrl_v1/.DS_Store
+.DS_Store
+**/.DS_Store
+.vscode/
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+simduino_atmega2560_flash.bin
+simduino
+.vscode/*.db
+obj-x86_64-apple-darwin17.4.0
