@@ -1,6 +1,6 @@
 # Router Bits
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/60-and-90-degree-V-Groove-Bit/Updates-August-2021/Router_Bits.jpg)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/60-and-90-degree-V-Groove-Bit/Updates-Agust-2021/Router_Bits.jpg)
 
 MakerMade offers a variety of router bits to help you to pair with your CNC and bring your designs to life!
 
