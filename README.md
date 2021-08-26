@@ -1,6 +1,6 @@
 # Router Bits
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/3-Bit-CNC-Starter-Pack/Updates-August-2021/Photo_5.PNG)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/3-Bit-CNC-Starter-Pack/Updates-August-2021/Router_Bits.jpg)
 
 MakerMade offers a variety of router bits to help you to pair with your CNC and bring your designs to life!
 
