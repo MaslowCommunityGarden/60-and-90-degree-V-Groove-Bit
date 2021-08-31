@@ -1,9 +1,10 @@
-# 60 and 90 degree V-Groove Bit
+# Router Bits
 
-Head over to [Maker Made](http://www.makermade.com/shop) to order.
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/60-and-90-degree-V-Groove-Bit/Updates-Agust-2021/Router_Bits.jpg)
 
-The perfect bit for making signs and detailed cuts like lettering!
+MakerMade offers a variety of router bits to help you to pair with your CNC and bring your designs to life!
 
-One end has a 60 degree cut head and the other end has a 90 degree cut head.
+Head over to [Maker Made](https://makermade.com/collections/all/category_cnc-router-bit?) to order.
 
-Ready to make precision cuts in solid woods, MDF, and plastics.
+#### ***Use promo code MASLOW10 for 10% off your order!***
+
